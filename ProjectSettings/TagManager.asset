@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Prop Lights
+  - Prop Emission
+  - Wall
+  - Floor
+  - Prop Content
+  - Phys Grab Object
+  - Phys Grab Controller
+  - Value Loss
+  - Phys Grab Point
+  - Battery
+  - Cart
+  - Enemy
+  - Grab Area
+  - Item Volume
+  - Ceiling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Other
+  - Water
+  - UI
+  - TopLayer
+  - Triggers
+  - TopLayerOnly
+  - StaticGrabObject
+  - Enemy
+  - Player
+  - DirtFinderMap
+  - CollisionCheck
+  - RoomVolume
+  - PhysGrabAvoider
+  - PhysGrabObject
+  - PhysGrabObjectTrigger
+  - PlayerOnlyCollision
+  - NavmeshOnly
+  - PhysGrabObjectCart
+  - IgnorePhysGrab
+  - CartWheels
+  - PhysGrabObjectHinge
+  - HideTriggers
+  - LightSeparate
+  - PlayerVisuals
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
