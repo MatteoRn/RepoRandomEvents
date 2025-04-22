@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7552226531866939316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8bc0622b42a4ddca773bdc9a802fc15, type: 3}
+  m_Name: '-'
+  m_EditorClassIdentifier: 
+  _mod: {fileID: 11400000, guid: 048e1e1eec497194783e4b76e9eb3226, type: 2}
+  _extraFiles:
+  - {fileID: 11400000, guid: ae5ac20b383d85e419dcaa4552e68582, type: 2}
+  - {fileID: 102900000, guid: 9f7d447bdc9ea4643bd71226c6aed934, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7bb70ed2ab24fb9aadba4baeb663b4c, type: 3}
+  m_Name: ModExportSettingsSource
+  m_EditorClassIdentifier: 
+  _settings:
+  - {fileID: -7552226531866939316}

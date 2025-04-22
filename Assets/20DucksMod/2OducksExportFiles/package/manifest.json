@@ -1,0 +1,9 @@
+{
+  "name": "20ducksEnemies",
+  "description": "",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Zehs-REPOLib-2.0.1"
+  ],
+  "website_url": ""
+}
